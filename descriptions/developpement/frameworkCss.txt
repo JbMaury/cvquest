@@ -1,0 +1,16 @@
+<p>
+Pour des projets qui nécessitent un <strong>développement rapide</strong>, multi-plateforme et consistant, les frameworks CSS cochent toutes les cases !
+Avec leurs <strong>classes prédéfinies</strong> et modulables, ils font gagner un temps considérable dans la réalisation d'un projet, le <strong>système de grille</strong> de <strong>BootStrap</strong> me permet de rendre le contenu <strong>responsive</strong> sans avoir à écrire de <strong>media queries</strong>.
+La facilité de prise en main de Bootstrap n'exclut pas la <strong>personnalisation</strong> des éléments, dans une moindre mesure qu'avec <strong>Tailwind</strong>, dont j'ai à peine aperçu le potentiel lors de mes projets.
+</p>
+<p>
+<strong>Tailwind CSS</strong> pousse le concept de la personnalisation plus loin, et je réalise avec le peu d'expérience que j'ai de ce framework, tout le potentiel de <strong>créativité</strong> inhérent à l'utilisation de classes purement utilitaires qui peuvent être combinées !
+Plus besoin de consacrer du temps à chercher des noms de classes sémantiquement proches de l'élément à styliser. Finies les modifications d'une classe ayant des répercussions  sur l'ensemble du projet, les <strong>classes utilitaires</strong> sont utilisées localement en html.
+</p>
+<p>
+Bien entendu, les frameworks CSS possèdent aussi quelques points faibles : une moins grande maîtrise du design, du html moins lisible (puisque les classes utilitaires se cumulent et ne signifient rien en soi), et le risque d'obtenir une interface utilisateur sans <strong>originalité</strong>, en particulier avec Bootstrap dont le style est très remarquable.
+</p>
+<p>
+Enfin, bien que ce ne soit pas à proprement parler un framework CSS, je sais utiliser le <strong>pré-processeur CSS Sass</strong> (pour "Syntactically Awesome CSS"), et tirer profit de ses <strong>variables</strong>, des <strong>mixins</strong> qui permettent de regrouper des ensembles de règles pour éviter la <strong>duplication de code</strong>, ainsi que de générer du code <strong>CSS dynamique</strong> avec des directives de contrôles. Et de façon non négligeable, Sass me permet d'utiliser le <strong>nesting</strong>, c'est-à-dire de structurer différentes classes CSS dans un rapport hiérarchique, ce qui n'est pas possible en css dont l'écriture est linéaire.
+</p>
+

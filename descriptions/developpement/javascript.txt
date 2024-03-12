@@ -1,0 +1,13 @@
+<p>
+Incontournable, <strong>Javascript</strong> est l'exemple même d'un écosystème florissant. Comme tout développeur ou apprenti développeur, je n'ai pas pu passer à côté de ce langage de script initialement conçu pour être utilisé <strong>côté client</strong> pour les navigateurs.
+</p>
+<p>
+J'utilise javascript dans la plupart des applications que je conçois, pour la manipulation du <strong>DOM</strong> et les intéractions avec utilisateurs. De nombreuses <strong>bibliothèques</strong> me permettent d'intégrer à mes projets des outils spécialisés, comme <strong>leaflet</strong> pour la gestion de carte intéractives ou le très utilisé <strong>JQuery</strong> pour faciliter les modifications du DOM.
+</p>
+<p>
+Javascript s'accompagne d'une grande collection de frameworks dont je suis familier. La "<strong>Réactivité</strong>" et la gestion du "<strong>state</strong>" de l'application est au coeur des préoccupations, pour optimiser l'<strong>expérience utilisateur</strong> et les performances. Une autre préoccupation essentielle en tant que développeur est de s'assurer de l'<strong>intégrité</strong> des données tout au long du <strong>cycle de vie</strong> de l'application.
+Le framework <strong>angular</strong> avec lequel j'ai travaillé durant ma formation, et l'extension de langage <strong>TypeScript</strong> utilisée dans ses composants, participent à rendre plus fiable la structure du projet.
+</p>
+<p>
+Je travaille également sur des projets personnels basé sur <strong>Node.js</strong> et permettant grâce à des frameworks comme <strong>Express.js</strong> de créer des API performantes en javascript. Pour mes projets, j'utilise des gestionnaires de dépendances, principalement <strong>NPM</strong>, pour mes ressources extérieures, et le fonctionnement de <strong>WebPack</strong> pour la gestion des bundles fait partie de mes compétences.
+</p>

@@ -1,0 +1,9 @@
+<p>
+À une époque lointaine, très lointaine, j'étais élève d'un <strong>lycée</strong> de région parisienne.
+J'ai effectué un cursus <strong>scientifique</strong>, jusqu'au baccalauréat, avant de prendre un autre chemin. C'est à cette époque, en pleine émergence de l'<strong>ADSL</strong> qui marquait la fin des modems, et de l'impossibilité d'être sur Internet tout en téléphonant, que j'ai commencé à m'intéresser à la création de <strong>sites webs</strong>.
+</p>
+<p>
+Armé d'un <strong>éditeur de texte</strong>, ou encore du logiciel adobe <Strong>DreamWeaver</strong>, j'ai découvert qu'il était possible de construire un site pièce par pièce, de récupérer les <strong>informations</strong> d'un utilisateur avec les <strong>formulaires</strong>, de traiter et enregistrer ces informations avec <strong>php</strong> et <strong>mySQL</strong>, et d'utiliser <strong>javascript</strong> pour rendre l'interface plus <strong>dynamique</strong> !
+Passionné par ce qu'on appelait alors les <strong>nouvelles Technologies de l'Information et de la Communication</strong>, je suis toujours resté très proche du milieu de la <strong>tech</strong>.
+</p>
+

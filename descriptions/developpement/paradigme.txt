@@ -1,0 +1,9 @@
+<p>
+Sur mes premiers projets Javascript, la <strong>structure</strong> du code était typiquement divisée en <strong>fonctions</strong>, ces mêmes fonctions utilisables en tant qu'<strong>argument</strong> dans d'autres fonctions, et pouvant renvoyer des <strong>valeurs en sortie</strong> (y compris des fonctions !)
+Cette façon de concevoir et <strong>traiter les données</strong>, reposant sur la <strong>programmation fonctionnelle</strong>, permet de diviser les problèmes en de plus petits problèmes pouvant être traités au sein d'une fonction, et par la composition de ces fonctions de résoudre des problèmes complexes. La <strong>réduction des problèmes</strong> offre des avantages, et une certaine forme de simplicité. 
+En revanche, je me suis plusieurs fois interrogé sur le lien entre données et traitement des données, à chercher une fonction parmi des dizaines, ou à utiliser une fonction pour des données d'un même type mais nécessitant un traitement spécifique à "l'appartenance" de ces donnée (Est-ce le nom d'un utilisateur ? le nom d'une ville ?).
+</p>
+<p>
+La <strong>programmation orientée objet</strong> (OOP) s'articule justement autour d'une modélisation de données <strong>schématique</strong>, c'est à dire que des données de différents type (Chaîne de caractère, entiers, booléens) mais aussi des fonctions, peuvent faire partie d'un <strong>même ensemble</strong>, regroupés sous une <strong>classe d'objet</strong> avec des <strong>attributs</strong> et des <strong>méthodes</strong> qui lui sont propres.
+J'ai une expérience satisfaisante de projets réalisés en programmation orientée objet, que ce soit en java, en typescript, kotlin ou PHP, et de l'utilisation de fonctionnalités avancées des <strong>entités</strong> qui requièrent un <strong>état partagé</strong>. 
+</p>

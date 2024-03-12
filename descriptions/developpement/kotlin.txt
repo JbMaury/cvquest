@@ -1,0 +1,7 @@
+<p>
+En approchant le développement <strong>Android</strong>, j'ai compris que Java était le langage historiquement utilisé et qu'un challenger, mais pas vraiment un concurrent, était arrivé en 2017 : le langage <strong>Kotlin</strong>.
+</p>
+<p>
+Issu de Java, les deux langages sont entièrement <strong>inter-opérables</strong>, mais Kotlin propose des améliorations, notamment dans la <strong>lisibilité</strong> du code, la sécurisation des types <strong>nullable</strong> et l'<strong>inférence de type</strong> . 
+Mon expérience en Kotlin m'a permis d'explorer les fondamentaux, et de démarrer des projets grâce à <strong>Android Studio</strong> en utilisant la bibliothèque <strong>Jetpack Compose</strong>, et je dois reconnaître qu'en tant que langage moderne, sa <strong>conçision</strong> est un véritable atout pour le développement !
+</p>

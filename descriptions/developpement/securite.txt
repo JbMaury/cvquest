@@ -1,0 +1,11 @@
+<p>
+La <strong>sécurisation</strong> des applications a pris une place de premier plan, alors que des hôpitaux, ou bien encore les services de France Travail ont été la cible, à grande échelle, de <strong>vol de données</strong>.
+L'enjeu est à la fois <strong>financier</strong> (l'interruption d'un service est très coûteuse) mais représente aussi de graves risques en matière de <strong>confidentialité des utilisateurs</strong>, dont les données personnelles peuvent être récupérées, usurpées et vendues.
+</p>
+<p>
+A mon échelle, la sécurité d'une application me demande d'être vigilant face aux <strong>différents types d'attaques</strong> existantes.
+Les données issues de formulaires utilisateurs, ou provenant d'une API tierce sons systématiquement validées pour éviter toute <strong>injection SQL</strong>, ou tentative de <strong>Cross-Site Scripting</strong> (XSS).
+</p>
+<p>
+Je veille également à utiliser des mécanismes de <strong>session sécurisés</strong>, me permettant de gérer les accès aux différents composants de l'application. Et les <strong>données sensibles</strong>, tels que les password ne sont inscrits en base de donnée qu'après l'utilisation d'un <strong>algorithme de hashage</strong>.
+</p>

@@ -1,0 +1,12 @@
+<p>
+Deux <strong>frameworks principaux</strong> ont le devant de la scène dans l'univers PHP : <strong>Symfony</strong> et <strong>Laravel</strong>.
+Je connais le fonctionnement de Laravel bien que je n'ai pas encore développé l'intégralité d'un projet avec cet outil !
+</p>
+<p>
+Pour Symfony, c'est différent, j'ai réalisé <strong>from scratch</strong> un projet d'application qui m'a permis d'en explorer toute la richesse. Durant mon stage à la Ligue de Football des Pays de la Loire, j'ai reçu un <strong>cahier des charges</strong> pour le développement d'une <strong>application de gestion des tirages au sort de la Coupe de France</strong>.
+En m'aidant de l'<strong>ORM Doctrine</strong>, avec une base de donnée MySQL sur un <strong>server Web Apache</strong> (pour le développement) j'ai conçu les entités, leurs <strong>relations</strong>, les <strong>contrôleurs</strong> Symfony pour gérer les requêtes de l'utilisateur, appliquer les <strong>logiques métier</strong> (créer des poules, ajouter des équipes, définir un tirage final ou par groupes).
+</p>
+<p>
+Les <strong>migrations</strong> m'ont permis de garder une trace précise des modifications faites en base de donnée, et d'opérer des changements en fonction de l'émergence de nouveaux besoins.
+J'ai initialement utilisé <strong>API Platform</strong> pour créer une API consommable depuis un front réalisé avec <strong>Angular</strong>. Mais Symfony vient également avec un <strong>moteur de template</strong>, <strong>Twig</strong>, qui génère des pages html côté serveur avec les données de l'application, et c'est ce moteur que j'ai finalement utilisé en combinaison de javascript.
+</p>

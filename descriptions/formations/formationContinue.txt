@@ -1,0 +1,7 @@
+<p>
+Les études en <strong>école d'informatique</strong> fournissent la <strong>base théorique</strong> et pratique nécessaire. Bien conscient qu'une formation de 6 mois ne remplace pas les 5 ans d'une <strong>école d'ingénieur</strong>, je continue de renforcer les aspects les moins solides de mon cursus.
+</p>
+<p>
+En particulier, je cherche à développer des fondations satisfaisantes en <strong>théorie algorithmique</strong> et en mathématique, car je pense qu'il est très souvent indispensable de sortir de son IDE, de prendre une feuille et un crayon et de <strong>raisonner</strong> en terme de <strong>structure</strong> et de modèle avant d'écrire du code.
+L'<strong>optimisation</strong> n'est pas le point d'accentuation des formations destinées aux débutants, et c'est avec cela en tête que j'approfondis les sujets tels que les <strong>design pattern</strong>, les structures de données avancées (<strong>arbres</strong>, <strong>graphs</strong>), la gestion du <strong>thread</strong>, de la <strong>mémoire</strong>, ainsi que l'<strong>architecture logicielle</strong> en général.
+</p>

@@ -1,0 +1,9 @@
+<p>
+Mes premières expériences en PHP lorsque j'étais lycéen m'ont permis d'envisager la richesse des possibilités offertes par ce langage <strong>polyvalent</strong>.
+Aujourd'hui j'utilise PHP principalement comme <strong>langage serveur</strong>, pour la manipulation de données utilisateur, leur traitement et l'accès à la base de donnée.
+Avoir de l'expérience avec PHP, c'est aussi pouvoir travailler directement sur la structure de CMS comme <strong>WordPress</strong>  et Drupal, en développant des fonctionnalités sur mesure.
+</p>
+<p>
+PHP bénéficie de deux frameworks principaux, <strong>Laravel</strong> et <strong>Symfony</strong>, qui facilitent la conception d'application. 
+Lors de mon <strong>stage</strong> à la Ligue de FootBall des Pays de la Loire, j'ai conçu une application de tirage au sort pour la <strong>Coupe de France</strong> en PHP, avec Symfony.
+</p>

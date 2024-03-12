@@ -1,0 +1,9 @@
+<p>
+La conception d'une application avec <strong>Spring</strong> est un <strong>gain de temps</strong> considérable. <strong>Spring Initializr</strong> configure les packages de base en quelques clics dans un fichier compressé contenant l'ensemble des fichiers (configuration, classes, dépendances) nécessaires pour commencer à développer immédiatement.
+</p>
+<p>
+Durant mon apprentissage, j'ai conçu des api avec <strong>Spring Data JPA</strong>, suivant un modèle MVC, en suivant une <strong>architecture flexible et modulaire</strong>. L'accès à la base de donnée par le biais d'<strong>annotation</strong> offre une grande simplicité d'utilisation !
+</p>
+<p>
+De même, la <strong>gestion des routes</strong> via les contrôleurs est plus lisible que l'utilisation des Servlets. Il est aussi plus facile de travailler collectivement sur un projet réalisé avec Spring, avec l'<strong>injection de dépendances</strong>, les modules restent isolés et chacun peut travailler sur une partie différente du projet sans interférence.
+<p>

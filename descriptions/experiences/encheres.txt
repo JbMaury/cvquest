@@ -1,0 +1,14 @@
+<p>
+Premiere <strong>application</strong> conséquente réalisée à l'ENI, le <strong>projet Enchère</strong> est développé en <strong>Java</strong> avec un front réalisé simplement en html css avec l'aide de Bootstrap, et répond à un cahier des charges bien précis.
+J'ai réalisé cette application avec une <strong>équipe</strong> de deux autres étudiants. J'ai principalement travaillé sur le DAL (<strong>Data Access Layer</strong>) et le BLL (<strong>Business Logic Layer</strong>).
+</p>
+<p>
+La demande est la suivante : Réaliser une application de vente aux enchères, permettant aux utilisateurs de <strong>créer un compte</strong>, d'en modifier les informations, de lister et de trier des produits, d'en mettre en vente avec une gestion de la durée de l'enchère, d'enchérir, et de communiquer de façon <strong>sécurisée</strong> les coordonnées de l'acheteur au vendeur pour l'envoi.
+La vente d'un produit doit permettre à l'utilisateur de récolter le montant de la vente en points, qui serviront ensuite à enchérir.
+Il est également demandé de créer un <strong>backoffice</strong> sécurisé pour les <strong>administrateurs</strong>, et de leur permettre de bloquer ou supprimer les enchères ou les comptes utilisateurs.
+</p>
+<p> 
+Nous avons réalisé ce projet en <strong>deux semaines</strong>, à plus de 90% des fonctionnalités demandées, répondant parfaitement à la demande.
+Ce projet m'a permis de m'investir dans la gestion de projet, de réaliser des <strong>daily scrum</strong> avec mon équipe, et de mettre à profit <strong>github</strong> pour centraliser nos avancées respectives, et de pouvoir en discuter.
+</p>
+

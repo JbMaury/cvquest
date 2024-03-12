@@ -1,0 +1,17 @@
+<p>
+Développer c'est bien, mais développer au sein d'une <strong>équipe</strong> c'est mieux ! Et avant d'écrire du code, il faut savoir <strong>communiquer</strong>, partager, ainsi que rendre compte de ses objectifs.
+</p>
+<p>
+J'ai été formé sur la <strong>méthodologie Agile</strong>, et je connais les principes du <strong>manifeste pour le Développement Agile de Solutions</strong>. Je sais qu'il est nécessaire de maintenir une relation forte avec le <strong>client</strong>, qui fait partie intégrante du processus de développement.
+Je sais également qu'il est préférable de livrer souvent des <strong>solutions opérationnelles minimales</strong> que d'attendre de finaliser un produit plus conséquent. Parce que les besoins peuvent changer, et que le <strong>changement</strong>, même au sein d'une équipe, doit être accueilli favorablement.
+</p>
+<p>
+Le cadre <strong>Scrum</strong> initie des <strong>cycles de "sprints"</strong>, tandis que la <strong>méthode Kanban</strong> met l'accent sur la gestion des tâches et la <strong>visualisation du flux</strong> de travail, mais toutes partagent des principes communs tels que la collaboration d'équipe favorisée, <strong>la livraison client itérative</strong>, et une adaptabilité au changement importante.
+</p>
+<p>
+Le travail collaboratif ne serait d'ailleurs pas possible sans outils spécialisés qui autorisent et sécurisent l'écriture et le <strong>partage de code</strong> au sein d'un même projet. Mon utilisation de <strong>git</strong> et <strong>github</strong> est fondamentale pour le bon déroulement d'un projet, et elle l'est davantage encore pour travailler au sein d'une équipe.
+Concernant Git, je maîtrise les commandes de base init, add, commit, status, log, checkout et merge et rebase. Je sais également cloner un <strong>dépôt distant</strong>, lier le dépôt local au dépôt distant via remote add origin, ainsi que récupérer ou envoyer mes modifications locales vers le dépôt distant. Je connais le fonctionnement des <strong>pull request</strong> pour soumettre une demande de fusion, des <strong>discussions</strong> et autorisations qui en résultent. 
+</p>
+<p>
+Je n'ai pas encore eu l'opportunité de travailler avec des outils <strong>CI/CD</strong>, mais j'en connais le fonctionnement et l'intérêt. C'est d'ailleurs un objectif supplémentaire pour moi que de découvrir et d'apprendre à <strong>automatiser</strong> les tâches d'<strong>intégration</strong>, de <strong>validation</strong> et de <strong>déploiement</strong> du code. 
+</p>

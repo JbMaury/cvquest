@@ -1,0 +1,16 @@
+
+<p>
+Que serait le web sans <strong>CSS</strong> ? Un petit coup d'oeil à la <a href="https://info.cern.ch/hypertext/WWW/TheProject.html" target="_blank">première page web</a> de Tim Berners-Lee, à l'origine du World Wide Web, nous en donne une idée : Pas encore de couleur, de souplesse dans l'interface, beaucoup de texte, et... des tableaux !
+Aujourd'hui, les selecteurs css se décomposent en plusieurs grandes familles, les classes, les balises, mais aussi les <strong>pseudos-classes</strong> et pseudo-sélecteurs ciblant les éléments dans un état donné ou une partie d'un élément.
+</p>
+
+<p>
+C'est par exemple le cas sur les cartes dont la description dispose d'images. Dans la fenêtre modale, Les images sont positionnées alternativement à gauche et à droite grâce au pseudo-sélecteur <strong>nth-of-type()</strong> auquel je passe en argument "odd" ou "even" pour cibler les elements pairs et impairs.
+</p>
+<p>
+CSS 3 c'est aussi des <strong>animations</strong>, permettant de définir des changements de valeur pour des  propriétés, et même de préciser l'interpolation lors d'une animation, à la manière d'un logiciel de montage vidéo qui permet d'accélérer ou de ralentir le mouvement au rythme souhaité.
+Plusieurs animations  sont présentes sur cette application, elles consistent en de simple changement de valeur d'opacité ou de position d'un élément. Mais je sais concevoir des animations plus complexes en utilisant les <strong>keyframes</strong> et leurs propriétés.
+</p>
+<p>
+Enfin, j'utilise, sur cette application notamment, le modèle <strong>flexbox</strong> pour disposer mes éléments. Cette disposition relative me permet de placer des éléments à l'intérieur d'éléments conteneur et de choisir facilement leur place.
+</p>

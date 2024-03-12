@@ -1,0 +1,11 @@
+<p>
+Java est le langage principal sur lequel je me suis formé à l'ENI. J'y ai appris à utiliser la version standard <strong>Java SE</strong> sur les versions 8, 11 et 17, et la version 9 de <strong>Jakarta EE</strong>, toutes bénéficiant d'un support à long terme (LTS).
+Mes compétences s'étendent des principes fondamentaux du langage jusqu'aux concepts avancés d'<strong>encapsulation</strong>, d'<strong>héritage</strong> et de <strong>polymorphisme</strong>. Mon expérience sur les frameworks et outils Java, tels que <strong>Spring</strong>, l'ORM <strong>Hibernate</strong> et le gestionnaire de production <strong>Maven</strong> me permet de développer des applications robustes et évolutives.
+</p>
+<p>
+Dans la réalisation d'applications d'entreprise, je suis en mesure de répondre aux besoins spécifiques d'un projet, par la mise en oeuvre de mécanismes de <strong>sécurité</strong>, de persistance de données, de transactions pour garantir leur intégrité, ainsi qu'une intégration résiliente de <strong>micro-services</strong> suivant les principes de l'architecture orientée services (SOA).
+</p>
+<p>
+Dans le cadre de ma formation, j'ai réalisé une application de vente aux enchères avec Java EE, en suivant un modèle de <strong>conception MVC</strong>, en utilisant les <strong>Servlets</strong> pour le traitement des requêtes HTTP, et les JSP et JSF pour la génération de contenu dynamique.
+Je travaille également avec le framework Java Spring et <strong>Spring Boot</strong> pour le développement d'<strong>API RESTfull</strong>.
+</p>

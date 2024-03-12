@@ -1,0 +1,12 @@
+<p>
+Dès les premières étapes de la <strong>conception</strong>, j'ai appris à utiliser des systèmes de <strong>modélisation</strong> pour rendre compte des besoins, de la structure, du cycle de vie et des fonctionnalités d'un projet d'application.
+Pendant ma formation j'ai appréhendé les différents types de <strong>diagramme UML</strong>, notamment les <strong>diagrammes de cas d'utilisation</strong>, les <strong>diagrammes de classe et de séquence</strong>, afin de rendre compte des besoins, des entités, ainsi que de l'état d'un système et de la communication entre ses composants.
+</p>
+<p>
+La structuration de chacun de mes projets passe par la prise en compte d'une <strong>séparation des préoccupations</strong>. Différentes <strong>couches</strong> sont associées à une <strong>responsabilité limitée</strong> et à des accès contrôlés aux autres couches. J'utilise la <strong>structuration MVC</strong> pour distinguer la couche de modéalisation (<strong>Model</strong>), la couche de présentation (<strong>View</strong>) et la couche de logique métier de traitement (<strong>Controller</strong>).
+Cela permet une meilleure organisation et une <strong>maintenabilité</strong> plus aisée de l'application lorsqu'elle évolue.
+</p>
+<p>
+En plus d'une conception claire et adaptée, chaque projet a besoin d'être rigoureusement testé durant son développement, à plus forte raison encore dans le cadre d'une <strong>approche Agile</strong>, ou le client reçoit régulièrement des livraisons d'un produit en cours d'élaboration, qui se doivent de présenter des fonctionnalités sans dysfonctionnement.
+J'utilise <strong>Jest</strong> pour les <strong>tests unitaires</strong> réalisées en Javascript, <strong>PHPUnit</strong> pour mes applications Symfony et <strong>JUnit</strong> ou <strong>Spring Boot Test</strong> lorsque je travaille en Java.
+</p>

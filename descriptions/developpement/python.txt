@@ -1,0 +1,6 @@
+<p>
+Majoritairement utilisé dans le <strong>développement logiciel</strong>, les data sciences, l'<strong>IA</strong>, et l'automatisation, <strong>Python</strong> est un langage minimaliste particulièrement polyvalent et à la popularité croissante.
+</p>
+<p>
+Mon approche de python s'est faite par le biais d'exercices d'algorithmie sur <strong>FreeCodeCamp</strong>, dont j'ai obtenu la certification "<strong>Scientific Computing with Python</strong>", puis par la création de services Web et d'<strong>API REST</strong> avec le framework <strong>Django</strong>.
+</p>

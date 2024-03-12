@@ -1,0 +1,18 @@
+<p>
+Début <strong>2023</strong>, j'ai sauté le pas de la <strong>reconversion professionnelle</strong>, avec ma <strong>culture numérique</strong> qui ne m'a jamais vraiment quitté, et débordant d'énergie !
+</p>
+J'ai réalisé ma formation à l'<strong>Eni École d'informatique</strong>, à St Herblain, jusqu'à obtenir le <strong>titre RNCP</strong> de <strong>Développeur Web/Web Mobile</strong>.
+La formation étant de 6 mois, les cours dispensés ont été particulièrement <strong>intensifs</strong> et débordent largement sur les soirées et les week-ends, en particulier si on aime aller jusqu'au bout de tous les exercices et d'approfondir tous les sujets !
+</p>
+<p>
+Bien qu'elle dispose d'une partie <strong>frontend</strong> fournie, la composante <strong>Backend</strong> est très appuyée, et c'est aussi là que va ma préférence, même si je me sens tout à fait capable de travailler comme développeur <strong>fullstack</strong> avec des technologies que je connais.
+</p>
+<p>
+Au programme à l'ENI ? <strong>Algorithmie</strong> et <strong>structure de données</strong> pour les bases, Front Html, CSS, <strong>Angular</strong> et Bootstrap, et de l'autre côté, beaucoup de <strong>Java</strong>, en programmation <strong>orientée objet</strong>, Java SE, Java EE, Java Spring et <strong>Spring Boot</strong>. Il faut également compter sur un apprentissage pratique de <strong>PHP</strong>, d'une approche très intéressante sur la conception et la <strong>gestion de projet</strong> (le fameux cycle en V, la fameuse <strong>Agilité</strong>) et d'heures délicieuses à apprivoiser les <strong>requêtes SQL</strong>, des plus simples (DQL, DDL, DML) au plus complexes (Bonjour <strong>PL-SQL</strong> !)
+</p>
+<p>
+Est-ce tout ? Non car la formation de développeur à l'ENI propose également, en plus des travaux pratiques quotidiens, de réaliser un <strong>projet en PHP</strong> avec Symfony, et un autre avec <strong>Jakarta EE</strong>. Ces projets sont réalisés <strong>en équipe</strong> à partir d'une méthodologie Agile, en respectant un ensemble de documents décrivant le client, ses besoins, les interfaces et les fonctionnalités attendues ainsi que leurs priorités.
+</p>
+<p>
+J'ai <strong>validé</strong> la formation de Développeur Web en <strong>novembre 2023</strong>, à partir d'examens continus réussis à 100%, et d'une soutenance de stage venant confirmer mon <strong>projet d'application</strong> de tirage au sort pour la Ligue de Football des Pays de la Loire.
+</p>

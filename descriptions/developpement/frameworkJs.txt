@@ -1,0 +1,18 @@
+<p>
+Javascript a connu en 2015 une évolution majeure avec l'<strong>ECMAScript 6</strong>, renforçant le langage de fonctionnalités présentes auparavant dans des frameworks et <strong>bibliothèques tierces</strong>.
+</p>
+<p>
+Ce qui n'empêche pas Javascript d'avoir une <strong>communauté très active</strong>, et un écosystème en <strong>constante évolution</strong> !
+Parmi les <strong>frameworks JS</strong>, j'ai travaillé avec <strong>JQuery</strong> avec parcimonie, pour sa facilité de manipulation du DOM et sa <strong>simplification</strong> de la gestion des évènements. J'ai également travaillé avec <strong>Angular</strong> et <strong>React</strong>, ce qui m'a permis d'apprendre à utiliser l'extension de langage <strong>TypeScript</strong>, et de faire mes premiers pas sur la composition d'application par <strong>composants</strong>.
+</p>
+<p>
+La logique de composition par composant est aussi celle de <strong>Vue.js</strong>, framework que j'ai utilisé pour <strong>cette application</strong>. J'apprécie la séparation des composants et le regroupement des trois éléments que sont la <strong>logique</strong>, le <strong>template</strong>, et le <strong>style</strong>, au sein d'un même fichier.
+La <strong>réactivité</strong> de l'application est assurée grâce à une <strong>liaison bi-directionnelle</strong> entre les données et la vue, permettant un contrôle important sur le state de l'application.
+Séparer les composants pour construire une <strong>interface modulaire</strong>, c'est aussi améliorer la <strong>maintenabilité</strong> et les phases de <strong>test</strong>.
+</p>
+<p>
+Des bibliothèques officielles pour Vue.js viennent enrichir son fonctionnement, c'est le cas pour <strong>Vue Router</strong>, qui permet de gérer les routes de l'application, et <strong>Vuex</strong> qui centralise la gestion du state.
+</p>
+<p>
+Néanmoins, quel que soit le framework utilisé, en tant que développeur je n'oublie pas qu'il s'agit de trouver l'<strong>outil le plus adapté</strong> à un projet, projet qui doit répondre à des <strong>problématiques business</strong> avant d'être une démonstration de compétences 😉.
+</p>

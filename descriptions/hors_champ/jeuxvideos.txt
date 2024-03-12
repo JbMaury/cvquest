@@ -1,0 +1,13 @@
+<img src="/cvquest/images/horsChamp/ico.jpg" alt="ico">
+<p>
+Vaste sujet ! J'ai eu la chance de découvrir très tôt les <strong>jeux vidéos</strong> et l'informatique, avec l'Atari 2600 et un <strong>amiga 500</strong>, à l'époque des jeux sur 6 disquettes et des prémices de <strong>système d'exploitation</strong> modernes.
+Grand amateur de <strong>rpg</strong>, et de jeux japonais, j'ai dévoré les univers de <strong>Final Fantasy</strong>, mais aussi d'autres registres comme les jeux de Fumito Ueda <strong>Ico</strong> et <strong>Shadow of The colossus</strong>.
+</p>
+<p>
+Fasciné par les premiers jeux <strong>en ligne</strong>, j'ai réalisé mon mémoire de master en sociologie sur les <strong>univers persistants</strong>, en interviewant des joueurs et des professionnels de <strong>World of Warcraft</strong>, <strong>Second Life</strong>, Asheron's Call, Habbo Hotel.
+</p>
+<img src="/cvquest/images/horsChamp/fez.png" alt="fez">
+<p>
+Aujourd'hui, je continue de jouer, principalement sur la plateforme <strong>Steam</strong> et sur switch, avec depuis quelques années un focus sur les <strong>jeux indépendants</strong>, fruit du travail d'une petite équipe voire d'un seul développeur :
+Je pense par exemple à <strong>Undertale</strong>, succès critique de Toby Fox, ou Stardew Valley d'Eric Barone. Les jeux indépendants ont l'avantage de pouvoir prendre des libertés (et des risques !), et renouvellent sans cesse le genre.
+</p>

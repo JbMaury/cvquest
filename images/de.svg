@@ -1,0 +1,35 @@
+<svg width="288" height="48" viewBox="0 0 288 48" xmlns="http://www.w3.org/2000/svg">
+  <!-- FIRST FACE -->
+  <rect x="0" y="0" width="48" height="48" fill="#124fb6"/>
+  <circle cx="24" cy="24" r="6" fill="black"/>
+  <!-- SECOND FACE -->
+  <rect x="48" y="0" width="48" height="48" fill="#bf42d8"/>
+  <circle cx="58" cy="10" r="6" fill="black"/>
+  <circle cx="86" cy="38" r="6" fill="black"/>
+  <!-- THIRD FACE -->
+  <rect x="96" y="0" width="48" height="48" fill="#00c000"/>
+  <circle cx="106" cy="10" r="6" fill="black"/>
+  <circle cx="120" cy="24" r="6" fill="black"/>
+  <circle cx="134" cy="38" r="6" fill="black"/>
+  <!-- FOURTH FACE -->
+  <rect x="144" y="0" width="48" height="48" fill="#f1d600"/>
+  <circle cx="154" cy="10" r="6" fill="black"/>
+  <circle cx="182" cy="10" r="6" fill="black"/>
+  <circle cx="182" cy="38" r="6" fill="black"/>
+  <circle cx="154" cy="38" r="6" fill="black"/>
+  <!-- FIFTH FACE -->
+  <rect x="192" y="0" width="48" height="48" fill="#ff9134"/>
+  <circle cx="202" cy="10" r="6" fill="black"/>
+  <circle cx="230" cy="10" r="6" fill="black"/>
+  <circle cx="216" cy="24" r="6" fill="black"/>
+  <circle cx="230" cy="38" r="6" fill="black"/>
+  <circle cx="202" cy="38" r="6" fill="black"/>
+  <!-- SIXTH FACE -->
+  <rect x="240" y="0" width="48" height="48" fill="#ff3120"/>
+  <circle cx="250" cy="10" r="6" fill="black"/>
+  <circle cx="250" cy="24" r="6" fill="black"/>
+  <circle cx="278" cy="10" r="6" fill="black"/>
+  <circle cx="278" cy="24" r="6" fill="black"/>
+  <circle cx="278" cy="38" r="6" fill="black"/>
+  <circle cx="250" cy="38" r="6" fill="black"/>
+</svg>

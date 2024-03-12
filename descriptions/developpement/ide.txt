@@ -1,0 +1,17 @@
+<p>
+Pour mon <strong>environnement de travail</strong>, j'utilise à la fois des environnements de développement intégré (IDE) et des éditeurs de texte.
+J'ai réalisé mes projets de formation et en entreprise tour à tour sur <strong>IntelliJ</strong>, et <strong>VisualStudio Code</strong>. C'est d'ailleurs avec ce dernier que j'ai conçu l'application sur laquelle vous vous trouvez actuellement !
+</p>
+<p>
+Même si ma préférence va à IntelliJ pour son ergonomie et l'ensemble des fonctionnalités qu'il propose naturellement (notamment pour une application Java), VS Code propose une bibliothèque d'extensions fournie me permettant de choisir les plugins avec lesquelles améliorer mon expérience de travail.
+</p>
+<p>
+Plus spécialisé, j'ai découvert l'IDE <strong>Eclipse</strong> en formation, dans le cadre d'un apprentissage centré sur l'environnement Java. Moins intuitif au premier abord, j'ai apprivoisé progressivement l'interface et ses particularités. Le potentiel de debugging, et le suivi de variables tout au long du cycle de vie de l'application en font un outil intéressant pour des applications complexes.
+</p>
+<p>
+Pour le développement mobile, j'utilise <strong>Android Studio</strong>, développé par Google et basé sur IntelliJ Community Edition. L'émulation offre la possibilité de tester mes applications sur différents appareils mobiles et acccélère à la fois développement et debugging. La phase initiale de configuration est toutefois cruciale pour éviter les problèmes de compatibilité plus tard dans le développement.
+</p>
+<p>
+Mes différents degrés de maîtrise de ces outils, ainsi que mes préférences personnelles, ne me font pas oublier que l'essentiel réside surtout dans la capacité à <strong>travailler collectivement</strong> sur un même projet, en dépit des outils utilisés qui peuvent être différents.<br/>
+C'est pourquoi je suis aussi disposé à changer de type d'environnement de travail, qu'à prendre soin d'adapter ce que je produis pour être lu, édité et déployé depuis n'importe quelle plateforme.
+</p>

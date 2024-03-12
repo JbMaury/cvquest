@@ -1,0 +1,8 @@
+<p>
+La <strong>persistance des données</strong> permet au parcours utilisateur d'exister au delà de la <strong>session</strong>, de maintenir des informations entre deux lancement de l'application grâce à l'écriture en base de données.
+Le langage <strong>SQL</strong> est un langage informatique normalisé que j'utilise régulièrement dans mes applications. Bien qu'il existe de nombreux outils qui permettent de ne plus écrire directement les requêtes SQL, comme l'ORM Doctrine, ou Hibernate pour Java, je préfère maintenir un niveau de connaissance me permettant d'écrire des <strong>requêtes précises et personnalisées</strong> lorsque cela est nécessaire.
+</p>
+<p>
+La plupart des applications que j'ai développées utilisent le langage SQL avec une base de donnée <strong>MySQL</strong>. J'ai également de l'expérience avec <strong>SQLServer de Microsoft</strong>, et <strong>Oracle</strong> avec une utilisation du langage propriétaire <strong>PL-SQL</strong>.
+A côté des bases de données relationnelles, <strong>MongoDB</strong>, base de donnée <strong>orientée Document</strong> m'a permis d'appréhender un modèle différent d'accès aux données.
+</p>

@@ -1,0 +1,10 @@
+<p>
+On commence tous par là ! Plus ou moins tôt. Pour moi c'était à l'âge de 14 ans, avec la découverte de mes premières <strong>balises HTML</strong>, de la structure d'une page web, et un peu plus tard de la gestion du style via le CSS.
+</p>
+<p> 
+Le web a bien évolué, et désormais HTML 5 s'oriente de plus en plus vers une normalisation syntaxique et structurelle. La pierre angulaire du développement Web n'est plus seulement un "échafaudage" d'éléments fonctionnels, mais une structure offrant avec les <strong>balises sémantiques</strong> l'opportunité de rendre la structure intelligible !
+Au revoir (ou à bientôt ?) les &lt;div&gt; et bienvenue aux balises &lt;header&gt;, &lt;nav&gt; ou encore &lt;article&gt; !
+</p>
+<p>
+L'enjeu est aussi de rendre le web plus <strong>accessible</strong>, au plus grand nombre de personnes, quelle que soient leurs spécificités, leurs difficultés. Ma sensibilité personnelle à propos du <strong>handicap</strong> et de l'accès aux outils numériques me pousse à intégrer pleinement cette orientation dans mon travail.
+</p>

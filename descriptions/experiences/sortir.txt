@@ -1,0 +1,15 @@
+<p>
+Second <strong>projet</strong> d'envergure à l'ENI, <strong>Sortir@ENI</strong> est une application réalisée avec deux étudiants, dont l'objet est la création d'une application d'<strong>organisation de sortie</strong> inter-campus entre étudiants.
+</p>
+<p>
+En <strong>deux semaines</strong>, il nous a été demandé de développer un <strong>backend</strong> avec <strong>Symfony</strong> et le front-end avec le <strong>framework</strong> ou moteur de template de notre choix, avec un demande client émanant directement de l'ENI.
+Il s'agit de créer une application sur laquelle les étudiants utilisent un <strong>compte unique</strong>, défini par leur numéro d'identification, pour créer et participer à des sorties autour du campus.
+</p>
+<p>
+Les sorties doivent permettre à l'utilisateur de mentionner une ville et un lieu, soit parmi une <strong>liste de lieux</strong> prédéfinis dans cette ville, soit en ajoutant un nouveau lieu à partir d'une <strong>API</strong> de géolocalisation. L'utilisateur peut alors donner une date à sa sortie, ainsi qu'un nombre maximal de participants.
+A tout moment l'<strong>organisateur</strong> d'une sortie peut annuler son annonce en décrivant la raison de son annulation qui est communiquée aux participants éventuels.
+En tant que <strong>participant</strong>, les utilisateurs peuvent visualiser les sorties disponibles, par campus, s'y inscrire, voir les autres participants inscrits, et se retirer d'une sortie sans avoir besoin d'écrire une justification, s'ils ne dépassent pas un délai de 24h avant l'échéance.
+</p>
+<p>
+Nous avons réalisée cette application avec Symfony, et mon travail recouvrait la création de la base de donnée <strong>MySQL</strong>, l'écriture des <strong>entités</strong> sur Symfony leurs annotations avec l'ORM Doctrine, la définition des <strong>routes</strong> dans les controleurs ainsi qu'un travail conséquent sur les vues générées avec <strong>Twig</strong>.
+</p>

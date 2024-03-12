@@ -1,0 +1,8 @@
+<img src="/cvquest/images/horsChamp/dogon.jpg" alt="masque dogon">
+<p>
+Mon parcours <strong>universitaire</strong> m'a emmené vers les <strong>sciences humaines</strong>, à naviguer entre la sociologie, la psychologie, l'<strong>anthropologie</strong> et l'économie qui ont d'une certaine façon façonné une partie de mon intérêt pour la <strong>science</strong>.
+</p>
+<img src="/cvquest/images/horsChamp/science.jpeg" alt="physique quantique">
+<p>
+Mon goût pour les sciences c'est également celui des sciences de la <strong>nature</strong> et des sciences formelles, des lectures de <strong>Stephen Hawking</strong> et <strong>Carl Sagan</strong>, des rencontres lors de visites d'<strong>observatoires</strong> et de centres de <strong>recherche</strong>. Comme un fil rouge, la compréhension fondamentale de l'<strong>univers</strong>, la <strong>physique</strong> des particules et l'<strong>astrophysique</strong> m'ont toujours autant rempli d'excitation et d'émerveillement que l'étude de l'être humain.
+</p>

@@ -1,0 +1,13 @@
+<p>
+Cotoyant des <strong>développeurs</strong> depuis le lycée, je n'ai jamais été très loin du milieu de la <strong>tech</strong>, et grâce aux ressources mises à disposition sur le web, j'ai réalisé un <strong>apprentissage</strong> du développement bien avant mon entrée en formation.
+<strong>Autodidacte</strong> ? Oui, sans aucun doute. Seul derrière mon écran ? Pas vraiment, grâce à l'appui de cet <strong>entourage</strong>, j'ai confronté mes connaissances, donné une direction plus précise à ma <strong>roadmap</strong>, et été à l'écoute des besoins en milieu de production.
+</p>
+<p>
+Très tôt j'ai suivi <strong>Mathieu Nebra</strong> et le site du zéro, devenu plus tard <strong>OpenClassRoom</strong>. J'ai réalisé pas à pas des projets reposant sur l'apprentissage des fondamentaux, puis de javascript, java et php. Les cours OpenClassRoom ont le double avantage d'être gratuits et accessibles, et constituent un <strong>premier tremplin</strong> vers l'approfondissement d'un langage ou d'une méthodologie de développement.
+</p>
+<p>
+J'ai également eu la chance de pouvoir suivre la progression d'un ami lors de sa formation de <strong>Développeur Web</strong> avec OpenClassRoom. Travailler ensemble sur les projets d'étape, chercher des solutions et de l'efficacité, fut une expérience très satisfaisante, et ma première en termes de <strong>travail collaboratif</strong>.
+</p>
+<p>
+L'une de mes références privilégiée est celle fondée par <strong>Quincy Larson</strong>, à savoir <strong>FreeCodeCamp</strong>. En plus des cours et <strong>exercices pratiques</strong>, FreeCodeCamp continue de m'offrir des <strong>articles stimulants</strong> sur l'innovation, la technique et les enjeux du développement. Contrairement à beaucoup d'autres plateformes d'apprentissage, la <strong>validation</strong> d'un cursus est faite par la <strong>réalisation d'un projet</strong> concret, évitant ainsi l'écueil de la chaîne sans fin des tutoriaux à partir desquels on ne crée rien.
+</p>

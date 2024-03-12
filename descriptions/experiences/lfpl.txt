@@ -1,0 +1,21 @@
+<p>
+Pour mon <strong>stage</strong> de fin d'étude à l'ENI, j'ai réalisé suivant le besoin exprimé par la <strong>Ligue de FootBall des Pays de la Loire</strong>, une application de gestion de <strong>tirage au sort</strong>.
+Cette application, décrite dans un cahier des charges précis, devait pouvoir être utilisée en <strong>public</strong> durant les tirages au sort de la <strong>Coupe de France</strong>.
+</p>
+<p>
+Le développement a été finalisé en <strong>quatre semaines</strong>, juste à temps pour le baptême du feu lors du <strong>4eme tour</strong> de la Coupe de France !
+</p>
+<p>
+Techniquement, j'ai travaillé avec <strong>deux développeurs</strong> de la Ligue, en répondant à la problématique initiale qui était de <strong>migrer</strong> du format texte/excel vers une <strong>application</strong> Symfony pour enregistrer les tirages au sort et permettre leur visualisation par le public lors de ces évènements.
+Le backend a été réalisée avec Symfony 6.3 et le frontend en html/css à l'aide du moteur de template Twig.
+<p>
+Ce fut un exercice passionnant de travailler avec toute une équipe d'un univers que je découvrais, de développer des <strong>fonctionnalités</strong> de façon agile, répondant à l'<strong>évolution</strong> des besoins, les modifications du cahier des charges, et de redéfinir ensemble les grandes lignes du projet.
+</p>
+</p>
+<p>
+Concrètement, il s'agissait de pouvoir créer des tirages avec une liste d'<strong>équipes qualifiées</strong> au tour précédent, de visualiser de façon dynamique les équipes tirées au sort pour la constitution des <strong>groupes</strong>, puis des <strong>matchs</strong>, de les reconnaître immédiatement grâce à leur blason, et de créer une <strong>animation</strong> de carte en javascript pour visualiser les stades de rattachement des deux équipes (et surtout, qui se déplace et jusqu'où !).
+</p>
+<p>
+Voila pour le côté public, côté backoffice l'<strong>administrateur</strong> doit avoir toutes les informations utiles de chaque équipe (niveau, division, déplacement au tour précédent), il doit également pouvoir visualiser de manière globale toutes les équipes de tous les groupes, insérer des équipes dans des groupes, créer des matchs, les inverser suivant les <strong>règles</strong> définies par la FFF, et bien entendu pouvoir annuler toute action sans que cela ait de conséquence sur le reste du tirage, ni d'impact sur la <strong>visualisation</strong> qu'en a le public.
+</p>
+<p>

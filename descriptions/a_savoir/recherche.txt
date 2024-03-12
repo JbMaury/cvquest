@@ -1,0 +1,8 @@
+<p>
+Je suis prêt à <strong>travailler</strong>, dès <strong>maintenant</strong>, sur des contrats en <strong>CDD</strong> ou <strong>CDI</strong>.
+Je ne suis pas fermé à l'<strong>alternance</strong>, au contraire, mais je ne souhaite pas effectuer d'autres stages non rémunérés.
+</p>
+<p>
+Je me sens capable de travailler sur des postes de développeur web <strong>fullstack</strong> même si je reconnais avoir une préference pour le <strong>backend</strong>.
+Les cartes de la rubrique "<strong>Développement</strong>" vous permettront de vous faire une idée de toutes les <strong>compétences</strong> que j'ai acquises jusqu'ici !
+</p>
